@@ -1,0 +1,7 @@
+2018-08-31 19:23:27,856, CRITICAL, critical
+2018-08-31 19:23:38,421, DEBUG, this is a debug log
+2018-08-31 19:23:38,421, INFO, this is a  info log
+2018-08-31 19:23:38,422, WARNING, waring
+2018-08-31 19:23:38,422, ERROR, error
+2018-08-31 19:23:38,422, CRITICAL, critical
+2018-08-31 19:23:38,422, ERROR, this is a error log
