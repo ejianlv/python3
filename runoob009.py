@@ -17,5 +17,6 @@ lwq.doHomework()
 print(lwq.name)
 print(lwq.couse)
 print(lwq.name)
+print()
+print
 
-lwq.

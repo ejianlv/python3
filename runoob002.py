@@ -20,4 +20,6 @@ def fib2(n): # 返回到 n 的斐波那契数列
     return result
 
 print("good")
+print("this is a good idea")
+
 
